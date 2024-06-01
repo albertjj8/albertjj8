@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @albertjj8
-- 👀 I’m interested in MIRAKAMI BOOK AND CSGO
+- 👀 I’m interested in MIRAKAMI BOOK AND valorant
 - 🌱 I’m currently learning Depth Learning
 - 💞️ I’m looking to collaborate on YOLOV8
 - 📫 How to reach me 2244792990@qq.com
